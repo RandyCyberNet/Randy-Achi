@@ -4,21 +4,14 @@
 
 - <b>Active Direcotry Project</b>
   - [Active Directory Lab](https://github.com/RandyCyberNet/Active-Directory-Lab)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>SIEM Environment (Purple Team Lab)</b>
+  - [Purple Team Lab]() <b><i>()</b></i>
 
-<h2>👨‍💻 IT Related Projects: </h2>
+<h2>👨‍💻 IT & Software Related Projects: </h2>
 
-- [Implementing Spiceworks Ticketing System to AD]()
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 💻 Software Development Projects: </h2>
-
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- [Creating a KeyLogger (C#)]()
+- [Ransomware Demonstration (C++)]()
+- [Mini-Web Scrapper]()
 
 <h2> 🤳 Connect with me:</h2>
 
