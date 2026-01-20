@@ -1,8 +1,9 @@
 <h1>Hi, I'm Randy! <br/><a href="https://www.linkedin.com/in/randyachi">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">IT Professional</a></h1>
 
 <h2>🌐🔐 Cyber Security Projects: </h2>
+
 - <b>Enterprise Security & Adversary Emulation Lab</b>
-  - [Purple Team Lab](https://github.com/RandyCyberNet/CyberSecurity-Attack-Defense-Lab) <b><i></b></i>
+  - [Purple Team Lab](https://github.com/RandyCyberNet/CyberSecurity-Attack-Defense-Lab)
     
 - <b>Active Direcotry Project</b>
   - [Active Directory Lab](https://github.com/RandyCyberNet/Active-Directory-Lab)
