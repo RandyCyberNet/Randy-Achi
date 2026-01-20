@@ -4,7 +4,7 @@
 
 - <b>Active Direcotry Project</b>
   - [Active Directory Lab](https://github.com/RandyCyberNet/Active-Directory-Lab)
-- <b>CyberSecurity Attack & Defense Lab</b>
+- <b>Enterprise Security & Adversary Emulation Lab</b>
   - [Purple Team Lab](https://github.com/RandyCyberNet/CyberSecurity-Attack-Defense-Lab) <b><i></b></i>
 
 <h2>👨‍💻 IT & Software Related Projects: </h2>
@@ -26,7 +26,7 @@
 [linkedin]: https://www.linkedin.com/in/randyachi
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
