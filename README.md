@@ -1,13 +1,13 @@
 <h1>Hi, I'm Randy! <br/><a href="https://www.linkedin.com/in/randyachi">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">IT Professional</a></h1>
 
 <h2>🌐🔐 Cyber Security Projects: </h2>
-
-- <b>Active Direcotry Project</b>
-  - [Active Directory Lab](https://github.com/RandyCyberNet/Active-Directory-Lab)
 - <b>Enterprise Security & Adversary Emulation Lab</b>
   - [Purple Team Lab](https://github.com/RandyCyberNet/CyberSecurity-Attack-Defense-Lab) <b><i></b></i>
+    
+- <b>Active Direcotry Project</b>
+  - [Active Directory Lab](https://github.com/RandyCyberNet/Active-Directory-Lab)
 
-<h2>👨‍💻 IT & Software Related Projects: </h2>
+<h2>👨‍💻 Software/Network/Web Related Projects: </h2>
 
 - [Creating a KeyLogger (C#)]()
 - [Ransomware Demonstration (C++)]()
