@@ -10,8 +10,8 @@
 
 <h2>👨‍💻 Software/Network/Web Related Projects: </h2>
 
-- [Creating a KeyLogger (C#)]()
-- [Ransomware Demonstration (C++)]()
+- [(Working Progress) Ransomware Demonstration (C++)]()
+- [(Working Progress) Creating a Credential Stealer ]()
 - [Mini-Web Scrapper]()
 
 <h2> 🤳 Connect with me:</h2>
