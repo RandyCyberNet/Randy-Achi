@@ -1,4 +1,4 @@
-<h1>Hi, I'm Randy! <br/><a href="https://www.linkedin.com/in/randyachi">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">IT Professional</a></h1>
+<h1>Hi, I'm Randy! <br/><a href="https://www.linkedin.com/in/randyachi">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/randyachi">IT Professional</a></h1>
 
 <h2>🌐🔐 Cyber Security Projects: </h2>
 
@@ -11,7 +11,7 @@
 - <b>Active Direcotry Projects</b>
   - [Active Directory Project](https://github.com/RandyCyberNet/Active-Directory-Lab)
 
-- <b>AWS projects</b>
+- <b>AWS Projects</b>
   - [AWS Network Infrastructure Project](https://github.com/RandyCyberNet/AWS-network-infrastructure-project)
 
 <h2> 🤳 Connect with me:</h2>
