@@ -8,10 +8,11 @@
 
 <h2>👨‍💻 Software/Network/Web Related Projects: </h2>
 
-- <b>Active Direcotry Project</b>
-- [Active Directory Project](https://github.com/RandyCyberNet/Active-Directory-Lab)
+- <b>Active Direcotry Projects</b>
+  - [Active Directory Project](https://github.com/RandyCyberNet/Active-Directory-Lab)
 
-- [AWS Network Infrastructure Project](https://github.com/RandyCyberNet/AWS-network-infrastructure-project)
+- <b>AWS projects</b>
+  - [AWS Network Infrastructure Project](https://github.com/RandyCyberNet/AWS-network-infrastructure-project)
 
 <h2> 🤳 Connect with me:</h2>
 
