@@ -23,7 +23,7 @@
 
 <!-- [instagram]: 
 [twitter]: 
-[youtube]: -->
+youtube: -->
 [linkedin]: https://www.linkedin.com/in/randyachi
 
 <!--
