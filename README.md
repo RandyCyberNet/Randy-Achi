@@ -5,14 +5,13 @@
 - <b>Enterprise Security & Adversary Emulation Lab</b>
   - [Purple Team Lab](https://github.com/RandyCyberNet/CyberSecurity-Attack-Defense-Lab)
     
-- <b>Active Direcotry Project</b>
-  - [Active Directory Lab](https://github.com/RandyCyberNet/Active-Directory-Lab)
 
 <h2>👨‍💻 Software/Network/Web Related Projects: </h2>
 
-- [(Working Progress) Ransomware Demonstration (C++)]()
-- [(Working Progress) Creating a Credential Stealer ]()
-- [Mini-Web Scrapper]()
+- <b>Active Direcotry Project</b>
+- [Active Directory Project](https://github.com/RandyCyberNet/Active-Directory-Lab)
+
+- [AWS Network Infrastructure Project](https://github.com/RandyCyberNet/AWS-network-infrastructure-project)
 
 <h2> 🤳 Connect with me:</h2>
 
